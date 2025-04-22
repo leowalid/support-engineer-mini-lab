@@ -1,0 +1,10 @@
+2025-04-17 09:00:00 INFO Server initialized
+2025-04-17 09:01:15 INFO User login request received: user_id=342
+2025-04-17 09:01:16 ERROR Authentication failed for user_id=342
+2025-04-17 09:02:00 INFO New connection from IP 192.168.1.5
+2025-04-17 09:03:21 WARN Disk space at 85% capacity
+2025-04-17 09:04:10 INFO User login successful: user_id=128
+2025-04-17 09:04:45 ERROR Failed to fetch orders: DB timeout
+2025-04-17 09:05:30 INFO Retry request triggered by user_id=128
+2025-04-17 09:06:02 ERROR Retry failed: DB unreachable
+2025-04-17 09:07:00 INFO Maintenance window scheduled at 23:00
